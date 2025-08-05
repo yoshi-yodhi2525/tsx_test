@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // 公開するリポジトリ名に合わせて設定します
-  base: '/event/', 
+  base: '/tsx_test/', 
 })
